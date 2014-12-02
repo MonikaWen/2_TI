@@ -1,0 +1,64 @@
+body{
+background-color:#EEEEEE;
+}
+div {
+	border-radius: 5px;
+}
+.link{
+text-decoration:none;
+color:grey;
+font-size: 25px;
+font-style:Arial;
+}
+.paragraf{
+font-size: 25px;
+font-style:Arial;
+}
+#calosc{
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+}
+
+#naglowek{
+background-color:#303030;
+color: #CDCDCD;
+text-align: center;
+padding: 5px;
+font-family:Arial;
+font-size:30px;
+}
+img {
+	width:350px;
+	height:350px;
+}
+table{
+margin: 0 auto;
+pading:5px;
+}
+#zawartosc{
+padding: 5px 5px 5px 5px;
+}
+#Nawigacja{
+width:1000;
+text-align:center;
+background-color:#303030;
+font-family:Arial;
+color:#9E9E9E;
+}
+#tresc{
+width:1000;
+text-align:center;
+background-color:#8C8C8C;
+}
+.n{
+font-style:Arial;
+font-size: 30px;
+
+}
+#Stopka{
+clear:both;
+background-color:#353535;
+color:white;
+text-align: center;
+}
